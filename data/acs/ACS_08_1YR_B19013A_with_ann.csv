@@ -1,0 +1,62 @@
+GEO.id,GEO.id2,GEO.display-label,HD01_VD01,HD02_VD01
+Id,Id2,Geography,Estimate; Median household income in the past 12 months (in 2008 inflation-adjusted dollars),Margin of Error; Median household income in the past 12 months (in 2008 inflation-adjusted dollars)
+0500000US34001,34001,"Atlantic County, New Jersey",56338,5426
+0500000US34003,34003,"Bergen County, New Jersey",83841,2112
+0500000US34005,34005,"Burlington County, New Jersey",80418,2638
+0500000US34007,34007,"Camden County, New Jersey",69021,3057
+0500000US34009,34009,"Cape May County, New Jersey",61053,8530
+0500000US34011,34011,"Cumberland County, New Jersey",56490,4710
+0500000US34013,34013,"Essex County, New Jersey",78172,3982
+0500000US34015,34015,"Gloucester County, New Jersey",73965,3331
+0500000US34017,34017,"Hudson County, New Jersey",56943,3260
+0500000US34019,34019,"Hunterdon County, New Jersey",106716,5048
+0500000US34021,34021,"Mercer County, New Jersey",84966,4010
+0500000US34023,34023,"Middlesex County, New Jersey",74681,2486
+0500000US34025,34025,"Monmouth County, New Jersey",85364,2430
+0500000US34027,34027,"Morris County, New Jersey",101947,2697
+0500000US34029,34029,"Ocean County, New Jersey",60165,2330
+0500000US34031,34031,"Passaic County, New Jersey",73897,4203
+0500000US34033,34033,"Salem County, New Jersey",63866,4929
+0500000US34035,34035,"Somerset County, New Jersey",100597,3709
+0500000US34037,34037,"Sussex County, New Jersey",79359,3878
+0500000US34039,34039,"Union County, New Jersey",74091,3302
+0500000US34041,34041,"Warren County, New Jersey",74152,4587
+0500000US42001,42001,"Adams County, Pennsylvania",55942,2805
+0500000US42003,42003,"Allegheny County, Pennsylvania",52162,835
+0500000US42005,42005,"Armstrong County, Pennsylvania",41809,3364
+0500000US42007,42007,"Beaver County, Pennsylvania",46344,1570
+0500000US42011,42011,"Berks County, Pennsylvania",57510,1772
+0500000US42013,42013,"Blair County, Pennsylvania",41205,2495
+0500000US42017,42017,"Bucks County, Pennsylvania",77746,2540
+0500000US42019,42019,"Butler County, Pennsylvania",58040,3464
+0500000US42021,42021,"Cambria County, Pennsylvania",38858,2337
+0500000US42027,42027,"Centre County, Pennsylvania",50218,3840
+0500000US42029,42029,"Chester County, Pennsylvania",88200,2114
+0500000US42033,42033,"Clearfield County, Pennsylvania",37037,2242
+0500000US42037,42037,"Columbia County, Pennsylvania",44329,2646
+0500000US42039,42039,"Crawford County, Pennsylvania",40877,1953
+0500000US42041,42041,"Cumberland County, Pennsylvania",61139,2607
+0500000US42043,42043,"Dauphin County, Pennsylvania",58039,2996
+0500000US42045,42045,"Delaware County, Pennsylvania",71849,1902
+0500000US42049,42049,"Erie County, Pennsylvania",46560,2752
+0500000US42051,42051,"Fayette County, Pennsylvania",34403,2168
+0500000US42055,42055,"Franklin County, Pennsylvania",54872,3100
+0500000US42063,42063,"Indiana County, Pennsylvania",42054,2394
+0500000US42069,42069,"Lackawanna County, Pennsylvania",42387,2179
+0500000US42071,42071,"Lancaster County, Pennsylvania",57207,1393
+0500000US42073,42073,"Lawrence County, Pennsylvania",43551,3182
+0500000US42075,42075,"Lebanon County, Pennsylvania",53867,3611
+0500000US42077,42077,"Lehigh County, Pennsylvania",56994,2985
+0500000US42079,42079,"Luzerne County, Pennsylvania",41980,1785
+0500000US42081,42081,"Lycoming County, Pennsylvania",43039,2063
+0500000US42085,42085,"Mercer County, Pennsylvania",41636,2593
+0500000US42089,42089,"Monroe County, Pennsylvania",55087,6730
+0500000US42091,42091,"Montgomery County, Pennsylvania",80998,1571
+0500000US42095,42095,"Northampton County, Pennsylvania",61190,1773
+0500000US42097,42097,"Northumberland County, Pennsylvania",40889,2037
+0500000US42101,42101,"Philadelphia County, Pennsylvania",48194,1614
+0500000US42107,42107,"Schuylkill County, Pennsylvania",43312,2623
+0500000US42111,42111,"Somerset County, Pennsylvania",37615,2757
+0500000US42125,42125,"Washington County, Pennsylvania",52411,3110
+0500000US42129,42129,"Westmoreland County, Pennsylvania",47541,1777
+0500000US42133,42133,"York County, Pennsylvania",57838,2303

@@ -1,0 +1,62 @@
+GEO.id,GEO.id2,GEO.display-label,HD01_VD01,HD02_VD01
+Id,Id2,Geography,Estimate; Median household income in the past 12 months (in 2006 inflation-adjusted dollars),Margin of Error; Median household income in the past 12 months (in 2006 inflation-adjusted dollars)
+0500000US34001,34001,"Atlantic County, New Jersey",59511,3113
+0500000US34003,34003,"Bergen County, New Jersey",79236,2911
+0500000US34005,34005,"Burlington County, New Jersey",71807,2444
+0500000US34007,34007,"Camden County, New Jersey",63818,2237
+0500000US34009,34009,"Cape May County, New Jersey",51292,3518
+0500000US34011,34011,"Cumberland County, New Jersey",54269,2880
+0500000US34013,34013,"Essex County, New Jersey",80663,3078
+0500000US34015,34015,"Gloucester County, New Jersey",67184,3584
+0500000US34017,34017,"Hudson County, New Jersey",61087,3951
+0500000US34019,34019,"Hunterdon County, New Jersey",93166,5035
+0500000US34021,34021,"Mercer County, New Jersey",74160,3750
+0500000US34023,34023,"Middlesex County, New Jersey",73719,2838
+0500000US34025,34025,"Monmouth County, New Jersey",80514,3149
+0500000US34027,34027,"Morris County, New Jersey",91737,3133
+0500000US34029,34029,"Ocean County, New Jersey",54986,1878
+0500000US34031,34031,"Passaic County, New Jersey",67788,3659
+0500000US34033,34033,"Salem County, New Jersey",66231,5214
+0500000US34035,34035,"Somerset County, New Jersey",92475,4112
+0500000US34037,34037,"Sussex County, New Jersey",78562,3916
+0500000US34039,34039,"Union County, New Jersey",75554,3889
+0500000US34041,34041,"Warren County, New Jersey",64984,5325
+0500000US42001,42001,"Adams County, Pennsylvania",54646,3076
+0500000US42003,42003,"Allegheny County, Pennsylvania",47296,1039
+0500000US42005,42005,"Armstrong County, Pennsylvania",36147,2262
+0500000US42007,42007,"Beaver County, Pennsylvania",44118,3462
+0500000US42011,42011,"Berks County, Pennsylvania",53001,1530
+0500000US42013,42013,"Blair County, Pennsylvania",40857,2330
+0500000US42017,42017,"Bucks County, Pennsylvania",72693,2212
+0500000US42019,42019,"Butler County, Pennsylvania",52963,2381
+0500000US42021,42021,"Cambria County, Pennsylvania",34529,2460
+0500000US42027,42027,"Centre County, Pennsylvania",41804,2941
+0500000US42029,42029,"Chester County, Pennsylvania",79982,2382
+0500000US42033,42033,"Clearfield County, Pennsylvania",33479,1981
+0500000US42037,42037,"Columbia County, Pennsylvania",38844,2333
+0500000US42039,42039,"Crawford County, Pennsylvania",36022,1703
+0500000US42041,42041,"Cumberland County, Pennsylvania",56343,2951
+0500000US42043,42043,"Dauphin County, Pennsylvania",53714,2940
+0500000US42045,42045,"Delaware County, Pennsylvania",60360,2137
+0500000US42049,42049,"Erie County, Pennsylvania",40918,1327
+0500000US42051,42051,"Fayette County, Pennsylvania",32218,1930
+0500000US42055,42055,"Franklin County, Pennsylvania",50939,1984
+0500000US42063,42063,"Indiana County, Pennsylvania",38835,1448
+0500000US42069,42069,"Lackawanna County, Pennsylvania",40302,2023
+0500000US42071,42071,"Lancaster County, Pennsylvania",54111,1420
+0500000US42073,42073,"Lawrence County, Pennsylvania",39491,2351
+0500000US42075,42075,"Lebanon County, Pennsylvania",50772,3627
+0500000US42077,42077,"Lehigh County, Pennsylvania",51790,2843
+0500000US42079,42079,"Luzerne County, Pennsylvania",40505,1141
+0500000US42081,42081,"Lycoming County, Pennsylvania",39001,2073
+0500000US42085,42085,"Mercer County, Pennsylvania",39402,2810
+0500000US42089,42089,"Monroe County, Pennsylvania",50960,2647
+0500000US42091,42091,"Montgomery County, Pennsylvania",73426,1964
+0500000US42095,42095,"Northampton County, Pennsylvania",54445,2104
+0500000US42097,42097,"Northumberland County, Pennsylvania",35928,3025
+0500000US42101,42101,"Philadelphia County, Pennsylvania",43580,1921
+0500000US42107,42107,"Schuylkill County, Pennsylvania",38591,1650
+0500000US42111,42111,"Somerset County, Pennsylvania",33894,1844
+0500000US42125,42125,"Washington County, Pennsylvania",46739,2501
+0500000US42129,42129,"Westmoreland County, Pennsylvania",43824,1914
+0500000US42133,42133,"York County, Pennsylvania",54473,1997

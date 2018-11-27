@@ -1,0 +1,63 @@
+GEO.id,GEO.id2,GEO.display-label,HD01_VD01,HD02_VD01
+Id,Id2,Geography,Estimate; Median household income in the past 12 months (in 2014 Inflation-adjusted dollars),Margin of Error; Median household income in the past 12 months (in 2014 Inflation-adjusted dollars)
+0500000US34001,34001,"Atlantic County, New Jersey",63418,4320
+0500000US34003,34003,"Bergen County, New Jersey",87398,3360
+0500000US34005,34005,"Burlington County, New Jersey",82081,2600
+0500000US34007,34007,"Camden County, New Jersey",71700,2391
+0500000US34009,34009,"Cape May County, New Jersey",58165,4146
+0500000US34011,34011,"Cumberland County, New Jersey",51484,5183
+0500000US34013,34013,"Essex County, New Jersey",80913,3963
+0500000US34015,34015,"Gloucester County, New Jersey",82228,2864
+0500000US34017,34017,"Hudson County, New Jersey",58102,3085
+0500000US34019,34019,"Hunterdon County, New Jersey",102934,5107
+0500000US34021,34021,"Mercer County, New Jersey",82034,4824
+0500000US34023,34023,"Middlesex County, New Jersey",71620,2196
+0500000US34025,34025,"Monmouth County, New Jersey",92225,2553
+0500000US34027,34027,"Morris County, New Jersey",101599,2385
+0500000US34029,34029,"Ocean County, New Jersey",64320,2676
+0500000US34031,34031,"Passaic County, New Jersey",76554,4403
+0500000US34033,34033,"Salem County, New Jersey",65162,5280
+0500000US34035,34035,"Somerset County, New Jersey",99993,4365
+0500000US34037,34037,"Sussex County, New Jersey",81891,4819
+0500000US34039,34039,"Union County, New Jersey",82091,5606
+0500000US34041,34041,"Warren County, New Jersey",72042,3714
+0500000US42001,42001,"Adams County, Pennsylvania",62725,3110
+0500000US42003,42003,"Allegheny County, Pennsylvania",57294,1305
+0500000US42005,42005,"Armstrong County, Pennsylvania",45998,4442
+0500000US42007,42007,"Beaver County, Pennsylvania",53478,3274
+0500000US42011,42011,"Berks County, Pennsylvania",60580,1241
+0500000US42013,42013,"Blair County, Pennsylvania",44204,3846
+0500000US42017,42017,"Bucks County, Pennsylvania",79211,2277
+0500000US42019,42019,"Butler County, Pennsylvania",60259,2809
+0500000US42021,42021,"Cambria County, Pennsylvania",44112,2512
+0500000US42025,42025,"Carbon County, Pennsylvania",49935,3094
+0500000US42027,42027,"Centre County, Pennsylvania",53468,3768
+0500000US42029,42029,"Chester County, Pennsylvania",86326,3639
+0500000US42033,42033,"Clearfield County, Pennsylvania",39777,2828
+0500000US42037,42037,"Columbia County, Pennsylvania",48441,4370
+0500000US42039,42039,"Crawford County, Pennsylvania",45207,2947
+0500000US42041,42041,"Cumberland County, Pennsylvania",64136,3106
+0500000US42043,42043,"Dauphin County, Pennsylvania",60628,2347
+0500000US42045,42045,"Delaware County, Pennsylvania",72734,2922
+0500000US42049,42049,"Erie County, Pennsylvania",47636,2424
+0500000US42051,42051,"Fayette County, Pennsylvania",37676,2871
+0500000US42055,42055,"Franklin County, Pennsylvania",50936,2501
+0500000US42063,42063,"Indiana County, Pennsylvania",42976,3535
+0500000US42069,42069,"Lackawanna County, Pennsylvania",46060,2628
+0500000US42071,42071,"Lancaster County, Pennsylvania",60035,2034
+0500000US42073,42073,"Lawrence County, Pennsylvania",46929,2999
+0500000US42075,42075,"Lebanon County, Pennsylvania",56105,4320
+0500000US42077,42077,"Lehigh County, Pennsylvania",61408,1868
+0500000US42079,42079,"Luzerne County, Pennsylvania",45479,1653
+0500000US42081,42081,"Lycoming County, Pennsylvania",46057,2843
+0500000US42085,42085,"Mercer County, Pennsylvania",44502,3246
+0500000US42089,42089,"Monroe County, Pennsylvania",61891,5705
+0500000US42091,42091,"Montgomery County, Pennsylvania",82073,1698
+0500000US42095,42095,"Northampton County, Pennsylvania",63012,2405
+0500000US42097,42097,"Northumberland County, Pennsylvania",39776,2643
+0500000US42101,42101,"Philadelphia County, Pennsylvania",51216,1111
+0500000US42107,42107,"Schuylkill County, Pennsylvania",42876,2509
+0500000US42111,42111,"Somerset County, Pennsylvania",46378,1827
+0500000US42125,42125,"Washington County, Pennsylvania",56964,3007
+0500000US42129,42129,"Westmoreland County, Pennsylvania",54478,2153
+0500000US42133,42133,"York County, Pennsylvania",60466,1410

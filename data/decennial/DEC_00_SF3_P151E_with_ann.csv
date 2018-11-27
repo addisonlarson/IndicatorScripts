@@ -1,0 +1,90 @@
+GEO.id,GEO.id2,GEO.display-label,VD01,VD02,VD03,VD04,VD05,VD06,VD07,VD08,VD09,VD10,VD11,VD12,VD13,VD14,VD15,VD16,VD17
+Id,Id2,Geography,Total:,"Less than $10,000","$10,000 to $14,999","$15,000 to $19,999","$20,000 to $24,999","$25,000 to $29,999","$30,000 to $34,999","$35,000 to $39,999","$40,000 to $44,999","$45,000 to $49,999","$50,000 to $59,999","$60,000 to $74,999","$75,000 to $99,999","$100,000 to $124,999","$125,000 to $149,999","$150,000 to $199,999","$200,000 or more"
+0500000US34001,34001,"Atlantic County, New Jersey",29,10,0,0,0,0,7,0,2,0,0,10,0,0,0,0,0
+0500000US34003,34003,"Bergen County, New Jersey",16,0,0,0,0,0,0,8,0,0,0,8,0,0,0,0,0
+0500000US34005,34005,"Burlington County, New Jersey",58,0,6,6,0,8,8,0,0,0,0,19,0,11,0,0,0
+0500000US34007,34007,"Camden County, New Jersey",29,0,0,7,0,0,0,0,0,0,4,9,0,0,0,0,9
+0500000US34009,34009,"Cape May County, New Jersey",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US34011,34011,"Cumberland County, New Jersey",9,5,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+0500000US34013,34013,"Essex County, New Jersey",131,7,6,11,14,16,13,0,0,14,10,13,14,8,5,0,0
+0500000US34015,34015,"Gloucester County, New Jersey",11,0,0,0,0,0,0,9,2,0,0,0,0,0,0,0,0
+0500000US34017,34017,"Hudson County, New Jersey",144,26,27,10,0,0,7,0,10,0,16,0,29,8,11,0,0
+0500000US34019,34019,"Hunterdon County, New Jersey",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US34021,34021,"Mercer County, New Jersey",38,0,4,0,0,6,0,8,0,0,0,9,4,7,0,0,0
+0500000US34023,34023,"Middlesex County, New Jersey",43,0,0,0,0,0,0,6,0,0,4,5,7,0,0,17,4
+0500000US34025,34025,"Monmouth County, New Jersey",39,0,0,0,0,0,4,0,0,0,0,7,16,0,0,12,0
+0500000US34027,34027,"Morris County, New Jersey",42,0,0,8,0,8,13,0,0,0,0,8,0,0,0,5,0
+0500000US34029,34029,"Ocean County, New Jersey",28,0,0,0,0,9,0,0,0,6,0,0,13,0,0,0,0
+0500000US34031,34031,"Passaic County, New Jersey",39,0,0,0,0,11,0,11,0,0,0,11,6,0,0,0,0
+0500000US34033,34033,"Salem County, New Jersey",8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0
+0500000US34035,34035,"Somerset County, New Jersey",5,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+0500000US34037,34037,"Sussex County, New Jersey",9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0
+0500000US34039,34039,"Union County, New Jersey",33,0,0,0,0,0,0,0,0,0,8,0,9,0,0,6,10
+0500000US34041,34041,"Warren County, New Jersey",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42001,42001,"Adams County, Pennsylvania",3,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42003,42003,"Allegheny County, Pennsylvania",216,31,0,34,43,2,7,0,0,9,0,40,31,19,0,0,0
+0500000US42005,42005,"Armstrong County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42007,42007,"Beaver County, Pennsylvania",6,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+0500000US42009,42009,"Bedford County, Pennsylvania",5,2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+0500000US42011,42011,"Berks County, Pennsylvania",63,0,0,0,7,0,6,0,16,14,7,8,0,5,0,0,0
+0500000US42013,42013,"Blair County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42015,42015,"Bradford County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42017,42017,"Bucks County, Pennsylvania",40,0,6,0,0,0,0,8,0,6,0,10,0,10,0,0,0
+0500000US42019,42019,"Butler County, Pennsylvania",10,0,8,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42021,42021,"Cambria County, Pennsylvania",21,6,0,0,0,0,0,0,5,0,0,0,10,0,0,0,0
+0500000US42023,42023,"Cameron County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42025,42025,"Carbon County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42027,42027,"Centre County, Pennsylvania",25,0,9,0,4,3,0,0,0,9,0,0,0,0,0,0,0
+0500000US42029,42029,"Chester County, Pennsylvania",18,0,0,0,4,0,0,0,0,0,3,0,2,0,0,0,9
+0500000US42031,42031,"Clarion County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42033,42033,"Clearfield County, Pennsylvania",33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0
+0500000US42035,42035,"Clinton County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42037,42037,"Columbia County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42039,42039,"Crawford County, Pennsylvania",5,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,0
+0500000US42041,42041,"Cumberland County, Pennsylvania",19,0,0,0,0,0,14,0,0,0,0,5,0,0,0,0,0
+0500000US42043,42043,"Dauphin County, Pennsylvania",13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42045,42045,"Delaware County, Pennsylvania",30,15,0,0,0,0,0,0,0,0,0,11,0,4,0,0,0
+0500000US42047,42047,"Elk County, Pennsylvania",2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+0500000US42049,42049,"Erie County, Pennsylvania",24,5,0,0,6,0,0,7,0,0,0,0,6,0,0,0,0
+0500000US42051,42051,"Fayette County, Pennsylvania",3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0500000US42053,42053,"Forest County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42055,42055,"Franklin County, Pennsylvania",17,0,0,0,0,7,0,0,4,0,6,0,0,0,0,0,0
+0500000US42057,42057,"Fulton County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42059,42059,"Greene County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42061,42061,"Huntingdon County, Pennsylvania",5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42063,42063,"Indiana County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42065,42065,"Jefferson County, Pennsylvania",3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+0500000US42067,42067,"Juniata County, Pennsylvania",6,0,3,2,0,0,1,0,0,0,0,0,0,0,0,0,0
+0500000US42069,42069,"Lackawanna County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42071,42071,"Lancaster County, Pennsylvania",4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+0500000US42073,42073,"Lawrence County, Pennsylvania",2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+0500000US42075,42075,"Lebanon County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42077,42077,"Lehigh County, Pennsylvania",26,0,0,0,0,5,0,0,0,0,8,13,0,0,0,0,0
+0500000US42079,42079,"Luzerne County, Pennsylvania",10,2,5,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+0500000US42081,42081,"Lycoming County, Pennsylvania",3,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+0500000US42083,42083,"McKean County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42085,42085,"Mercer County, Pennsylvania",5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+0500000US42087,42087,"Mifflin County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42089,42089,"Monroe County, Pennsylvania",8,0,0,0,0,0,2,0,0,0,4,2,0,0,0,0,0
+0500000US42091,42091,"Montgomery County, Pennsylvania",41,0,0,0,0,0,0,0,9,0,8,3,10,5,6,0,0
+0500000US42093,42093,"Montour County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42095,42095,"Northampton County, Pennsylvania",5,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+0500000US42097,42097,"Northumberland County, Pennsylvania",5,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0
+0500000US42099,42099,"Perry County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42101,42101,"Philadelphia County, Pennsylvania",178,35,20,36,8,16,10,0,0,0,12,27,14,0,0,0,0
+0500000US42103,42103,"Pike County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42105,42105,"Potter County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42107,42107,"Schuylkill County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42109,42109,"Snyder County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42111,42111,"Somerset County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42113,42113,"Sullivan County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42115,42115,"Susquehanna County, Pennsylvania",3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+0500000US42117,42117,"Tioga County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42119,42119,"Union County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42121,42121,"Venango County, Pennsylvania",2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+0500000US42123,42123,"Warren County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42125,42125,"Washington County, Pennsylvania",16,0,0,2,0,0,0,0,0,0,0,10,4,0,0,0,0
+0500000US42127,42127,"Wayne County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42129,42129,"Westmoreland County, Pennsylvania",12,0,0,0,0,0,0,0,0,6,0,0,6,0,0,0,0
+0500000US42131,42131,"Wyoming County, Pennsylvania",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0500000US42133,42133,"York County, Pennsylvania",37,0,0,9,0,2,0,0,0,0,10,0,6,10,0,0,0

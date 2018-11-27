@@ -1,0 +1,62 @@
+GEO.id,GEO.id2,GEO.display-label,HD01_VD01,HD02_VD01
+Id,Id2,Geography,Estimate; Median household income in the past 12 months (in 2007 inflation-adjusted dollars),Margin of Error; Median household income in the past 12 months (in 2007 inflation-adjusted dollars)
+0500000US34001,34001,"Atlantic County, New Jersey",63070,4030
+0500000US34003,34003,"Bergen County, New Jersey",83925,3019
+0500000US34005,34005,"Burlington County, New Jersey",77066,2377
+0500000US34007,34007,"Camden County, New Jersey",67957,3718
+0500000US34009,34009,"Cape May County, New Jersey",54598,3876
+0500000US34011,34011,"Cumberland County, New Jersey",53453,3917
+0500000US34013,34013,"Essex County, New Jersey",84189,4598
+0500000US34015,34015,"Gloucester County, New Jersey",72049,2944
+0500000US34017,34017,"Hudson County, New Jersey",66613,4523
+0500000US34019,34019,"Hunterdon County, New Jersey",98642,4692
+0500000US34021,34021,"Mercer County, New Jersey",80326,4565
+0500000US34023,34023,"Middlesex County, New Jersey",75392,2055
+0500000US34025,34025,"Monmouth County, New Jersey",82449,1932
+0500000US34027,34027,"Morris County, New Jersey",98286,3141
+0500000US34029,34029,"Ocean County, New Jersey",56596,1516
+0500000US34031,34031,"Passaic County, New Jersey",68848,3216
+0500000US34033,34033,"Salem County, New Jersey",61594,6531
+0500000US34035,34035,"Somerset County, New Jersey",99961,4458
+0500000US34037,34037,"Sussex County, New Jersey",78808,4981
+0500000US34039,34039,"Union County, New Jersey",76014,3309
+0500000US34041,34041,"Warren County, New Jersey",67081,4377
+0500000US42001,42001,"Adams County, Pennsylvania",53518,3445
+0500000US42003,42003,"Allegheny County, Pennsylvania",50836,811
+0500000US42005,42005,"Armstrong County, Pennsylvania",40558,2046
+0500000US42007,42007,"Beaver County, Pennsylvania",46412,2140
+0500000US42011,42011,"Berks County, Pennsylvania",58347,2492
+0500000US42013,42013,"Blair County, Pennsylvania",42680,2370
+0500000US42017,42017,"Bucks County, Pennsylvania",71792,1775
+0500000US42019,42019,"Butler County, Pennsylvania",54251,3051
+0500000US42021,42021,"Cambria County, Pennsylvania",38011,1807
+0500000US42027,42027,"Centre County, Pennsylvania",45531,2191
+0500000US42029,42029,"Chester County, Pennsylvania",85000,2329
+0500000US42033,42033,"Clearfield County, Pennsylvania",36187,2522
+0500000US42037,42037,"Columbia County, Pennsylvania",42751,3566
+0500000US42039,42039,"Crawford County, Pennsylvania",36579,1752
+0500000US42041,42041,"Cumberland County, Pennsylvania",59076,2482
+0500000US42043,42043,"Dauphin County, Pennsylvania",56304,2541
+0500000US42045,42045,"Delaware County, Pennsylvania",66033,1973
+0500000US42049,42049,"Erie County, Pennsylvania",44532,1509
+0500000US42051,42051,"Fayette County, Pennsylvania",32211,2676
+0500000US42055,42055,"Franklin County, Pennsylvania",47074,2824
+0500000US42063,42063,"Indiana County, Pennsylvania",34079,1892
+0500000US42069,42069,"Lackawanna County, Pennsylvania",42016,1707
+0500000US42071,42071,"Lancaster County, Pennsylvania",55528,1533
+0500000US42073,42073,"Lawrence County, Pennsylvania",41016,1650
+0500000US42075,42075,"Lebanon County, Pennsylvania",48626,3066
+0500000US42077,42077,"Lehigh County, Pennsylvania",55412,2489
+0500000US42079,42079,"Luzerne County, Pennsylvania",42737,1789
+0500000US42081,42081,"Lycoming County, Pennsylvania",42701,1916
+0500000US42085,42085,"Mercer County, Pennsylvania",43026,2871
+0500000US42089,42089,"Monroe County, Pennsylvania",55768,5498
+0500000US42091,42091,"Montgomery County, Pennsylvania",77384,1916
+0500000US42095,42095,"Northampton County, Pennsylvania",60338,1745
+0500000US42097,42097,"Northumberland County, Pennsylvania",36753,2544
+0500000US42101,42101,"Philadelphia County, Pennsylvania",46892,1874
+0500000US42107,42107,"Schuylkill County, Pennsylvania",41228,1858
+0500000US42111,42111,"Somerset County, Pennsylvania",37292,3073
+0500000US42125,42125,"Washington County, Pennsylvania",48177,2880
+0500000US42129,42129,"Westmoreland County, Pennsylvania",46761,1932
+0500000US42133,42133,"York County, Pennsylvania",56706,1862
